@@ -61,7 +61,7 @@ a:focus-visible,
 .profile.section{
   padding:0;
   position:relative;
-  overflow:hidden;
+  overflow:visible;
 }
 .hero-left{
   display:flex;
@@ -324,6 +324,7 @@ h3{font-size:1.1rem;font-weight:600;margin-bottom:12px;letter-spacing:.2px}
 }
 .linkedin-strip{
   position:relative;
+  padding-right:36px;
 }
 .linkedin-scroll{
   margin-top:10px;
